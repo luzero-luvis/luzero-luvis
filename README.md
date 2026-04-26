@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,bash,docker,gcp,go,grafana,jenkins,kubernetes,linux,github,mongodb,postgres,prometheus&theme=dark" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=aws,bash,docker,gcp,go,grafana,jenkins,kubernetes,linux,github,mongodb,postgres,prometheus,terraform&theme=dark" alt="tools" />
 </p>
 
 ---
